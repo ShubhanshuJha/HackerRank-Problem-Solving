@@ -21,3 +21,11 @@ Note:
 • The original string always contains only alpha numeric characters.
 
 Using this information, your task is to determine the original password (before encryption) when given the encrypted password from your classmate.
+
+Function Description: Complete the function decryptPassword in the editor below. decryptPassword must return the original password string before it was encrypted by
+your classmate.
+decryptPassword has the following parameter:
+s: the password string after it was encrypted by your classmate
+
+Sample Input: 51Pa*0Lp*0e
+Sample Output: aP1pL5e
