@@ -1,4 +1,4 @@
-##Password Decryption
+Password Decryption
 
 In a computer security course, you just learned about password decryption. Your fellow student has created their own password encryption method, and they've asked you
 to test how secure it is. Your task is to recover the original password given the encrypted password provided to you by your classmate.
